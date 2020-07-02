@@ -1,0 +1,1 @@
+# sitecore9.2_resources
